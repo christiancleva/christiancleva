@@ -15,10 +15,11 @@ I specialize in hardening infrastructures and implementing open-source Security 
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Security & Monitoring** | Wazuh (SIEM), Zabbix, OpenVAS |
-| **Automation & GitOps** | Ansible, Git, Linux Shell Scripting |
-| **Virtualization & Cloud** | Proxmox VE, Docker Engine, Windows Server, Debian |
-| **Networking & Infrastructure** | Zyxel Ecosystem, Core Routing & Switching, Firewalling |
+| **Security & Monitoring** | Wazuh (SIEM), Zabbix, Kali Linux, OpenVAS |
+| **Automation & GitOps** | Ansible, Git, Linux Scripting and Windows scripting |
+| **Virtualization** | Proxmox VE, VMWare, Docker Engine |
+| **Cloud** | Azure, OVHcloud Public Cloud, OpenStack Ecosystem, S3-Compatible Object Storage |
+| **Networking & Infrastructure** | Zyxel Ecosystem, Ubiquiti, HPE, Fortinet |
 
 ---
 
@@ -33,4 +34,4 @@ I specialize in hardening infrastructures and implementing open-source Security 
 *   **GitHub Goals:** Contributing to the open-source sysadmin community by sharing reliable, standardized security baselines.
 
 ---
-*“Securing infrastructures today to protect business continuity tomorrow.”*
+*“Securing infrastructures to protect business continuity.”*
